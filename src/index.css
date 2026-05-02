@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20240625/pngtree-beautiful-grass-football-field-with-bokeh-background-image_15920781.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
